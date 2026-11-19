@@ -19,3 +19,6 @@ Facebook 貼文本身不能內嵌這個語言選單；朋友點開網站連結�
 ## 新增字母紙收藏
 新增三語 templates.html，各語言現在有 14 頁。templates 資料夾含六張整理裁邊的預覽圖及原始 PDF。這些收藏資料與作者手工作品分開標示。
 更新已上線網站：請上傳 style.css、zh、en、ja 三個資料夾，以及新增的 templates 資料夾，保留原目錄結構。
+
+## 漆面光澤解說
+三語 methods.html 已加入鏡面反射與散射反射的比較、兩張作者提供的原圖，以及原圖用語和不同比例尺的補充說明。更新時上傳 style.css、三個語言資料夾內的 methods.html，以及 assets/lacquer-matte.jpg、assets/lacquer-gloss.jpg。
